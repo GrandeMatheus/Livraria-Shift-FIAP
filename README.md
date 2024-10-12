@@ -59,4 +59,4 @@ Este projeto foi desenvolvido durante o curso Python Fundamentals pela FIAP para
 Manipulação de dados
 Estruturação de código em camadas
 Regras de negócio
-Desenvolvimento de sistemas orientados a serviços
+Desenvolvimento de sistemas orientados a serviços.
